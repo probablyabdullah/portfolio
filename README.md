@@ -9,7 +9,7 @@
   <img alt="Mockup" src="src/assets/3-devices-white.png" width="800px">
 </div>
 <p align="center">
-  <img alt="npm" src="https://img.shields.io/badge/html%20--_css-js_--sliderjs%20-orange">
+  <img alt="npm" src="https://img.shields.io/badge/html_%20--%20css-js%20--%20_sliderjs-orange">
   <img alt="GitHub" src="https://img.shields.io/github/license/easybase/easybase-react">
   <img alt="npm bundle size" src="https://img.shields.io/badge/max%20size-1.27Gb-purple">
   <img alt="npm" src="https://img.shields.io/badge/npm-v9.7.0-blue">
