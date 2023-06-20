@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+<div align="center">
+<img src="src/assets/github banner.png">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>
+  🌐<a href="https://probablyabdullah.github.io/portfolio/">https://probablyabdullah.github.io/portfolio</a>🌐
+</h2>
 
-## Available Scripts
+<div align="center">
+  <img alt="Mockup" src="src/assets/3-devices-white.png" width="800px">
+</div>
+<p align="center">
+  <img alt="npm" src="https://img.shields.io/badge/html%20--_css-js_--sliderjs%20-orange">
+  <img alt="GitHub" src="https://img.shields.io/github/license/easybase/easybase-react">
+  <img alt="npm bundle size" src="https://img.shields.io/badge/max%20size-1.27Gb-purple">
+  <img alt="npm" src="https://img.shields.io/badge/npm-v9.7.0-blue">
+</p>
+</div>
 
-In the project directory, you can run:
+## Salient Features ✅
 
-### `npm start`
+⚡️Fully responsive with slides and clickable elements<br>
+⚡️Repeated texture background<br>
+⚡️Seperately developed for media queries from screens of all sizes<br>
+⚡️Smooth scrolling throughout the page<br>
+⚡️All links open in a separate page<br>
+⚡️Look for little react easter eggs every here and there!<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tools & Techniques 🛠️
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🧩[**GitHub Pages**](https://docs.github.com/en/pages) - Hosts the website and all it's required assets.<br>
+🧩[**Google Fonts**](https://fontawesome.com/) - The main font Poppins and it's versions.<br>
+🧩[**Swiper.js**](https://swiperjs.com/) - The most efficient slider templates for react.<br>
+🧩[**Coolors**](https://coolors.co/) - Color palette generator for uniformity.<br>
+🧩[**React-icons**](https://react-icons.github.io/react-icons)) - Easily importable uniform icons.<br>
+🧩[**Email.js**](https://www.emailjs.com/)) - Form input straight to personal email forwarding.<br>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Components 📂
 
-### `npm run build`
+🔩 Header \
+🔩 About \
+🔩 Education \
+🔩 Experience \
+🔩 Achievements \
+🔩 Portfolio \
+🔩 Projects \
+🔩 Contact \
+🔩 Footer \
+🔩 Sticky Navbar \
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contributing Guidelines 📃
 
-### `npm run eject`
+Thank you for your interest in contributing! Follow these guidelines:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Fork and clone the repository.
+2. Install dependencies.
+3. Create a new branch for your contribution.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Make clear, concise commits with proper documentation. Test thoroughly before submitting a pull request. Follow coding style and conventions. Report issues and suggest improvements.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+We appreciate your contribution!🌈
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<hr>
 
-## Learn More
+<p align="center">
+⭐️ Please show some ❤️ and support by giving this project a star on GitHub! Let's make it even better together! ✨
+</p>
+<p align="center">
+<img src="https://madewithlove.now.sh/in?heart=true&colorB=%23063707&template=for-the-badge" alt="Made with love in India">
+</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
