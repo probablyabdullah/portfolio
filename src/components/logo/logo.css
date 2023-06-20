@@ -1,0 +1,15 @@
+.logo__image{
+    opacity: 0.7;
+    width: 8%;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    display: block;
+    z-index: 2;
+    position: fixed;
+    transition: all 120ms ease;
+}
+
+.logo__image:hover{
+    opacity: 0;
+
+}
