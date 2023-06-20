@@ -2,7 +2,7 @@
 <img src="src/assets/github banner.png">
 
 <h2>
-  🌐<a href="https://probablyabdullah.github.io/portfolio/">https://probablyabdullah.github.io/portfolio</a>🌐
+  🌐<a href="https://probablyabdullah.github.io/portfolio/" target='_blank'>https://probablyabdullah.github.io/portfolio</a>🌐
 </h2>
 
 <div align="center">
