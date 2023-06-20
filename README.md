@@ -46,7 +46,7 @@
 🔩 Projects \
 🔩 Contact \
 🔩 Footer \
-🔩 Sticky Navbar \
+🔩 Sticky Navbar 
 
 
 
