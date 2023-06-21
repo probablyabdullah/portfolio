@@ -31,8 +31,8 @@
 🧩[**Google Fonts**](https://fontawesome.com/) - The main font Poppins and it's versions.<br>
 🧩[**Swiper.js**](https://swiperjs.com/) - The most efficient slider templates for react.<br>
 🧩[**Coolors**](https://coolors.co/) - Color palette generator for uniformity.<br>
-🧩[**React-icons**](https://react-icons.github.io/react-icons)) - Easily importable uniform icons.<br>
-🧩[**Email.js**](https://www.emailjs.com/)) - Form input straight to personal email forwarding.<br>
+🧩[**React-icons**](https://react-icons.github.io/react-icons) - Easily importable uniform icons.<br>
+🧩[**Email.js**](https://www.emailjs.com/) - Form input straight to personal email forwarding.<br>
 
 
 ## Components 📂
